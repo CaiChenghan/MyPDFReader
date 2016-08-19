@@ -1,0 +1,6 @@
+framework module MyPDFReader {
+  umbrella header "MyPDFReader.h"
+
+  export *
+  module * { export * }
+}

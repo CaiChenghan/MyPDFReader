@@ -1,0 +1,16 @@
+PODS:
+  - MyPDFReader (1.0.0)
+
+DEPENDENCIES:
+  - MyPDFReader (from `../`)
+
+EXTERNAL SOURCES:
+  MyPDFReader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyPDFReader: c46ee4c9ce4433f69c22e0dab11fdbbc0892b333
+
+PODFILE CHECKSUM: abe4ddd7ee79e1dfa129f7acd94897b9ff736c1d
+
+COCOAPODS: 1.0.1
